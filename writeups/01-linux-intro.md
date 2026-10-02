@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Linux Introductin
+#  Linux Introduction
 
 *Una guía fundamental sobre el núcleo, la historia y la arquitectura del ecosistema GNU/Linux.*
 
