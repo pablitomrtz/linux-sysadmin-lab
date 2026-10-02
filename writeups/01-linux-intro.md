@@ -11,12 +11,12 @@
 ##  Tabla de Contenidos
 
 - [Introducción](#introducción)
-- [Historia de GNU y Linux](#-historia-de-gnu-y-linux)
-- [Open Source y Software Libre](#-open-source-y-software-libre)
-- [Arquitectura de un Sistema Linux](#-arquitectura-de-un-sistema-linux)
-- [Distribuciones Linux](#-distribuciones-linux)
-- [Gestión de Paquetes](#-gestión-de-paquetes)
-- [Referencias](#-referencias)
+- [Historia de GNU y Linux](#historia-de-gnu-y-linux)
+- [Open Source y Software Libre](#open-source-y-software-libre)
+- [Arquitectura de un Sistema Linux](#arquitectura-de-un-sistema-linux)
+- [Distribuciones Linux](#distribuciones-linux)
+- [Gestión de Paquetes](#gestión-de-paquetes)
+- [Referencias](#referencias)
 
 ---
 
