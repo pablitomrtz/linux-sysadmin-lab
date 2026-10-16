@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 
 Al pensar en un sistema operativo Linux por primera vez, su complejidad puede resultar abrumadora. Sin embargo, pensarlo de forma general ayuda a comprenderlo mejor. La mejor forma de desglosarlo es dividiéndolo en **tres capas principales de abstracción**:
