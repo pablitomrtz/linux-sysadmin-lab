@@ -47,7 +47,7 @@ Durante años, la comunidad GNU desarrolló componentes que hoy son pilares fund
 ###  Nacimiento de Linux
 En **1991**, **Linus Torvalds** (estudiante de Ciencias de la Computación en la Universidad de Helsinki) comenzó el desarrollo de un núcleo propio inspirado en **MINIX** (un sistema educativo creado por Andrew Tanenbaum). 
 
-Las limitaciones de licenciamiento y las capacidades reducidas de MINIX motivaron a Torvalds a programar su propia solución. Inicialmente el proyecto iba a llamarse **Freax**, pero posteriormente adoptó el nombre mundialmente conocido: **Linux**. La combinación del **Kernel Linux** y las **herramientas GNU** permitió, finalmente, construir un sistema operativo completo y funcional.
+Las limitaciones de licenciamiento y las capacidades reducidas de MINIX, y otras causas motivaron a Torvalds a programar su propia solución. Inicialmente el proyecto iba a llamarse **Freax**, pero posteriormente adoptó el nombre mundialmente conocido: **Linux**. La combinación del **Kernel Linux** y las **herramientas GNU** permitió, finalmente, construir un sistema operativo completo y funcional. Igualmente, cabe destacar ciertos sistemas Linux que no utilizan integramente las herramientas GNU, como por ejemplo Android.
 
 ---
 
@@ -108,8 +108,7 @@ Debian
 Fuerte presencia empresarial corporativa y certificaciones (RHCSA, RHCE) reconocidas mundialmente.
 
 ```text
-Fedora
- └── RHEL (Red Hat Enterprise Linux)
+RHEL (Red Hat Enterprise Linux) y Fedora
       ├── Rocky Linux
       ├── AlmaLinux
       └── CentOS (Histórico)
@@ -133,7 +132,7 @@ Los gestores de paquetes permiten instalar, actualizar y eliminar software centr
 | Familia de Distro | Formato | Herramientas CLI | Interfaces Gráficas (GUI) / Históricas |
 | :--- | :---: | :--- | :--- |
 | **Debian / Ubuntu** | `.deb` | `apt`, `apt-get`, `dpkg` | Synaptic, Software Center |
-| **Red Hat / Fedora** | `.rpm` | `dnf`, `rpm` | `yum` (histórico), GNOME Software, Yumex |
+| **Red Hat / Fedora** | `.rpm` | `dnf`, `rpm`, `yum`  | GNOME Software, Yumex |
 | **SUSE** | `.rpm` | `zypper` | YaST |
 
 ---
@@ -143,6 +142,7 @@ Los gestores de paquetes permiten instalar, actualizar y eliminar software centr
 * **Linux Essentials** - CISCO / NDG
 * **How Linux Works** - Brian Ward
 * Documentaciones oficiales de **GNU** y **Linux**
+* Cert Landscape https://study.cybercirujas.club/
 
 ---
 <div align="center">
